@@ -22,8 +22,3 @@
 ```
 python3 test_library.py
 ```
-
-## Features
-- Object relationships between classes
-- Aggregate methods that work with collections
-- Association methods for borrowing system# phase-3-codechallenge3
